@@ -13,9 +13,9 @@
 
 ---
 
-- 🎓 Soy estudiante del ciclo de Desarrollo Web aprendiendo las últimas tecnologías dentro del IES Juan Bosco.
-- 👨‍💻 Como desarrollador busco afrontar nuevos retos para probar distintas tecnologías y encontrar la mejor solución para cada problema.
-- 🏆 Participé en las I Jornadas de Centros de Excelencia de FP en Canarias, donde desarrollamos la app CONVERSA para ayudar a personas con mutismo selectivo.
+- 🎓 Soy estudiante del ciclo de Desarrollo Web, aprendiendo las últimas tecnologías en el IES Juan Bosco.
+- 👨‍💻 Como desarrollador, busco afrontar nuevos retos, explorar distintas tecnologías y encontrar la mejor solución para cada problema.
+- 🏆 Participé en las Primeras Jornadas de Centros de Excelencia de FP en Canarias, donde desarrollamos la app CONVERSA para ayudar a personas con mutismo selectivo.
 - 💬 Pueden probar la demo de mi versión web de un clásico juego de dados [Matatena](https://mal501.github.io/Matatena/).
 ## 🛠 &nbsp;Tech Stack
 
